@@ -1,4 +1,5 @@
 // About Current Millis See at https://currentmillis.com/
+// Why u must use Millis in date time field, https://www.youtube.com/watch?v=nEOEvWm5yPA&ab_channel=ProgrammerZamanNow [Indonesian Language]
 
 // GET MILLIS Date.now() // or: new Date().getTime()
 var time = new Date().getTime();
